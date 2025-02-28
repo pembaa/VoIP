@@ -12,7 +12,6 @@ Secure VoIP Application is an end-to-end encrypted voice communication system de
 
 ## Technologies Used
 - **Programming Language:** Python
-- **GUI Framework:** PyQt
 - **Networking:** Sockets
 - **Cryptography:** PyCryptodome / cryptography library
 
