@@ -49,7 +49,7 @@ cd VoIP
 - **PKI-Based Security:** Ensures authentication and integrity of communication.
 
 ## Screenshots
-![Secure VoIP Application](path_to_screenshot.png)
+![Secure VoIP Application](/img/VoIP.png)
 
 
 
